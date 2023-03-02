@@ -44,3 +44,6 @@ Anytime you want to run the app using serve:
 serve -s build
 ```
 
+The app is now served locally (usually on port 3000 unless occupied):
+
+[http://localhost:3000/](http://localhost:3000/)

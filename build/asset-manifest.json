@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.13b2e19a.css",
-    "main.js": "/static/js/main.8403ca8d.js",
+    "main.js": "/static/js/main.023ea35a.js",
     "static/js/496.a35e4282.chunk.js": "/static/js/496.a35e4282.chunk.js",
     "static/media/Avenir.ttc": "/static/media/Avenir.bd849aa48220dc5266c4.ttc",
     "index.html": "/index.html",
     "main.13b2e19a.css.map": "/static/css/main.13b2e19a.css.map",
-    "main.8403ca8d.js.map": "/static/js/main.8403ca8d.js.map",
+    "main.023ea35a.js.map": "/static/js/main.023ea35a.js.map",
     "496.a35e4282.chunk.js.map": "/static/js/496.a35e4282.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13b2e19a.css",
-    "static/js/main.8403ca8d.js"
+    "static/js/main.023ea35a.js"
   ]
 }
